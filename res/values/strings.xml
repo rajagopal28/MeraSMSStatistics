@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MeraSMSStatistics</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+     <string name="goButton">Go!!</string>
+	<string-array name="StatisticsList">
+        <item>Today Stat</item>
+        <item>This Week Stat</item>
+        <item>This Month Stat</item>
+    </string-array>
+</resources>
